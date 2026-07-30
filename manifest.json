@@ -1,7 +1,7 @@
 {
   "name": "Marengo",
   "short_name": "Marengo",
-  "description": "The future of horse trading",
+  "description": "Choose yours.",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#26344D",
